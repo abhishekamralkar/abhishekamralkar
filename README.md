@@ -11,8 +11,8 @@ I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies.
 
 ### How to reach me? 
 
-  ⦿ Check my [Blog](https://dev.to/abhishekamralkar)
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishekamralkar/)
-  ⦿ Follow me on [Twitter](https://twitter.com/aamralkar)
-  ⦿ Drop Me an [Email](mailto:abhishekamralkar@gmail.com)
+  ⦿ Check my [Blog](https://dev.to/abhishekamralkar) <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishekamralkar/) <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/aamralkar) <br>
+  ⦿ Drop Me an [Email](mailto:abhishekamralkar@gmail.com) <br>
 
