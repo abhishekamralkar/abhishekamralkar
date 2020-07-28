@@ -9,10 +9,10 @@ I am [Abhishek Amralkar](https://dev.to/abhishekamralkar/), a seasoned DevOps fr
 I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies. 🚀
 
 
-### 📫 How to reach me? 
+### How to reach me? 
 
-  ⦿ Visit my [Website](https://dev.to/abhishekamralkar) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishekamralkar/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/aamralkar) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:abhishekamralkar@gmail.com) 💌 <br>
+  ⦿ Check my [Blog](https://dev.to/abhishekamralkar)
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishekamralkar/)
+  ⦿ Follow me on [Twitter](https://twitter.com/aamralkar)
+  ⦿ Drop Me an [Email](mailto:abhishekamralkar@gmail.com)
 
