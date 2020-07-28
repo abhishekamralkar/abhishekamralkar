@@ -4,9 +4,9 @@
 **abhishekamralkar/abhishekamralkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Abhishek Amralkar](https://dev.to/abhishekamralkar/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 12+ years of working experience. 🎯
+I am [Abhishek Amralkar](https://dev.to/abhishekamralkar/), a seasoned DevOps from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 12+ years of working experience. 🎯
 
-I mostly work with Golang, Clojure, Python and Cloud-Native technologies. 🚀
+I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies. 🚀
 
 
 ### 📫 How to reach me? 
