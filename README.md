@@ -9,9 +9,9 @@ I am [Abhishek Amralkar](https://dev.to/abhishekamralkar/), a seasoned DevOps fr
 I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies. 🚀
 
 ### My 2020 Goals?
-  ⦿ Learn GoLang/Rust
-  ⦿ Deeper understanding of K8s
-  ⦿ Get a domain and run a blog/website
+  ⦿ Learn GoLang/Rust <br>
+  ⦿ Deeper understanding of K8s <br>
+  ⦿ Get a domain and run a blog/website <br>
    
 
 
