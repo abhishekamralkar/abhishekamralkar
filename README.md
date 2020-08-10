@@ -17,6 +17,7 @@ I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies.
 ### My 2020 Goals?
   ⦿ Learn GoLang/Rust <br>
   ⦿ Deeper understanding of K8s <br>
+  ⦿ Finish atleast 2 books out of [SRE At Google](https://landing.google.com/sre/books/) <br>
   ⦿ Get a domain and run a blog/website <br>
 
 ### 📕 Latest Blog Posts
