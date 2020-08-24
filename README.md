@@ -23,9 +23,9 @@ I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oh, My Xmonad!](https://dev.to/abhishekamralkar/oh-my-xmonad-119d)
 - [Collection Functions](https://dev.to/abhishekamralkar/collection-functions-3g9k)
 - [Collection Functions](https://dev.to/abhishekamralkar/collection-functions-42ca)
 - [String Functions](https://dev.to/abhishekamralkar/string-functions-5fek)
 - [Terraform Functions](https://dev.to/abhishekamralkar/terraform-functions-317f)
-- [Getting started with CDK for Terraform](https://dev.to/abhishekamralkar/getting-started-with-cdk-for-terraform-5d9l)
 <!-- BLOG-POST-LIST:END -->
