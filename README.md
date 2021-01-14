@@ -30,3 +30,5 @@ I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies.
 - [String Functions](https://dev.to/abhishekamralkar/string-functions-5fek)
 - [Terraform Functions](https://dev.to/abhishekamralkar/terraform-functions-317f)
 <!-- BLOG-POST-LIST:END -->
+
+![Profile views](https://gpvc.arturio.dev/abhishekamralkar)
