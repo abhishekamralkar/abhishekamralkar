@@ -1,4 +1,6 @@
-### Hi there 👋. I'm [Abhishek Amralkar](https://dev.to/abhishekamralkar/), a seasoned DevOps from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 12+ years of working experience. 🎯
+### Namaste!.
+
+I'm [Abhishek Amralkar](https://dev.to/abhishekamralkar/), a seasoned DevOps from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 12+ years of working experience. 🎯
 
 I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies. 🚀
 
