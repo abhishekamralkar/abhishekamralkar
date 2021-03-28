@@ -32,3 +32,8 @@ I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies.
 <!-- BLOG-POST-LIST:END -->
 
 ![Profile views](https://gpvc.arturio.dev/abhishekamralkar)
+
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekamralkar&show_icons=true&theme=gotham" alt="Darsh Shah GitHub Stats" />
+</details> 
