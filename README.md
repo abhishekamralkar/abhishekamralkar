@@ -1,8 +1,8 @@
 ### Namaste!.
 
-I'm [Abhishek Amralkar](https://abhishekamralkar.medium.com/), a seasoned DevOps from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 12+ years of working experience. 🎯
+I'm [Abhishek Amralkar](https://abhishekamralkar.medium.com/), a seasoned DevOps from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; with 15+ years of working experience. 🎯
 
-I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies. 🚀
+I mostly work with Linux, Golang, Python and Cloud-Native technologies. 🚀
 
 
 ### How to reach me? 
@@ -16,7 +16,7 @@ I mostly work with Linux, Golang, Clojure, Python and Cloud-Native technologies.
 
 
 
-### My 2023 Goals?
+### My 2024 Goals?
   ⦿ Learn GoLang/Rust <br>
   ⦿ Deeper understanding of K8s <br>
   ⦿ Finish atleast 2 books out of [SRE At Google](https://landing.google.com/sre/books/) <br>
